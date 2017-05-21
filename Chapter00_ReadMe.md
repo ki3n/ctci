@@ -1,10 +1,11 @@
 # Demystifying of Cracking the Coding Interview 6th Edition  
 
-## Languages: Java, JavaScript & Python 
+## Languages: 
+	[ ] Java
+	[ ] JavaScript
+	[ ] Python 
 
-## Instructions
-
-- This repository contains All the 189 Solutions of CTCI in Java, JavaScript & Python 
+- This repository may contain All the 189 Solutions of CTCI in Java, JavaScript & Python 
 
 
 ## List of Coding Questions and completed solutions:
@@ -164,14 +165,14 @@
 
 #### Chapter 13 Java
 - [ ] How to Approach, Overlaoding vs overiding, Collection Framework
-- [ ] 116 13.1 - 
-- [ ] 117 13.2 - 
-- [ ] 118 13.3 - 
-- [ ] 119 13.4 - 
-- [ ] 120 13.5 - 
-- [ ] 121 13.6 - 
-- [ ] 122 13.7 - 
-- [ ] 123 13.8 - 
+- [ ] 116 13.1 - Private Constructor
+- [ ] 117 13.2 - Return From Finally
+- [ ] 118 13.3 - Final, etc.
+- [ ] 119 13.4 - Generics vs Templates
+- [ ] 120 13.5 - TreeMap, HashMap, LinkedHashMap
+- [ ] 121 13.6 - Object Reflection
+- [ ] 122 13.7 - Lambda Expressions
+- [ ] 123 13.8 - Lambda Random
 
 
 #### Chapter 14 Databases
@@ -186,7 +187,7 @@
 
 
 #### Chapter 15 Threads and Locks
-- Threads in Java, Synchronization and Locks, Deadlocks and Deadlock Prevention, 
+- [ ] Threads in Java, Synchronization and Locks, Deadlocks and Deadlock Prevention, 
 - [ ] 131 14.1 - 
 - [ ] 132 14.2 - 
 - [ ] 133 14.3 - 

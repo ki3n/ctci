@@ -1,9 +1,9 @@
 # Demystifying of Cracking the Coding Interview 6th Edition  
 
 ## Languages: 
-	- [ ] Java
-	[ ] JavaScript
-	[ ] Python 
+- [ ] Java
+- [ ] JavaScript
+- [ ] Python 
 
 - This repository may contain All the 189 Solutions of CTCI in Java, JavaScript & Python 
 

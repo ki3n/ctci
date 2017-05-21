@@ -1,0 +1,16 @@
+# Chapter 8 Recursion and Dynamic Programming
+- [ ] How to Approach, Recursive vs Iterative Solutions, Dynamic Programming & Memoization
+- [ ] 066 8.1 - Triple Step
+- [ ] 067 8.2 - Robot in a Grid
+- [ ] 068 8.3 - Magic Index
+- [ ] 069 8.4 - Power Set
+- [ ] 070 8.5 - Recursive Multiply
+- [ ] 071 8.6 - Towers of Hanoi
+- [ ] 072 8.7 - Permutations without Dups
+- [ ] 073 8.8 - Permutations with Dups
+- [ ] 074 8.9 - Parens
+- [ ] 075 8.10 - Paint Fill
+- [ ] 076 8.11 - Coins
+- [ ] 077 8.12 - Eight Queens
+- [ ] 078 8.13 - Stack Boxes
+- [ ] 079 8.14 - Boolean Eval

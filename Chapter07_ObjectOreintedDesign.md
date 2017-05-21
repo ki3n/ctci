@@ -1,0 +1,14 @@
+# Chapter 7 Object Oriented Design
+- [ ] How to Approach, Design Patterns
+- [ ] 054 7.1 - Deck of Cards
+- [ ] 055 7.2 - Call Center
+- [ ] 056 7.3 - Jukebox
+- [ ] 057 7.4 - Parking Lot
+- [ ] 058 7.5 - Online Book Reader
+- [ ] 059 7.6 - Jigsaw
+- [ ] 060 7.7 - Chat Server
+- [ ] 061 7.8 - Othello
+- [ ] 062 7.9 - Circular Array
+- [ ] 063 7.10 - Minesweeper
+- [ ] 064 7.11 - File System
+- [ ] 065 7.12 - Hash Table

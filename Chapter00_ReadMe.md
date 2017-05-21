@@ -1,4 +1,4 @@
-# Demystifying of Cracking the Coding Interview 6th Edition  
+# Demystifying Cracking the Coding Interview 6th Edition  
 
 ## Languages: 
 - [ ] Java
@@ -23,7 +23,7 @@
 - [ ] 009 1.9 - String Rotation 
 
 #### Chapter 2 Linked Lists
-- Creating a Linked List, Deleting a Node from a Singly Linked List, The "Runner" Technique
+- [ ] Creating a Linked List, Deleting a Node from a Singly Linked List, The "Runner" Technique
 - [ ] 010 2.1 - Remove Dups
 - [ ] 011 2.2 - Return Kth to Last
 - [ ] 012 2.3 - Delete Middle Node

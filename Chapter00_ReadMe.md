@@ -1,7 +1,7 @@
 # Demystifying of Cracking the Coding Interview 6th Edition  
 
 ## Languages: 
-	[ ] Java
+	- [ ] Java
 	[ ] JavaScript
 	[ ] Python 
 

@@ -1,5 +1,5 @@
 # Chapter 13 Java
-- [*] How to Approach, Overlaoding vs overiding, Collection Framework
+- [ ] How to Approach, Overlaoding vs overiding, Collection Framework
 - [ ] 116 13.1 - Private Constructor
 - [ ] 117 13.2 - Return From Finally
 - [ ] 118 13.3 - Final, etc.

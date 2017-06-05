@@ -1,1 +1,28 @@
-# Chapter 
+#### Chapter 17 Hard
+- [ ] Notes
+- [ ] 164 17.1 - Add without Plus
+- [ ] 165 17.2 - Shuffle
+- [ ] 166 17.3 - Random Set
+- [ ] 167 17.4 - Missing Number
+- [ ] 168 17.5 - Letters and Numbers
+- [ ] 169 17.6 - Count of 2s
+- [ ] 170 17.7 - Baby Names
+- [ ] 171 17.8 - Circus Tower
+- [ ] 172 17.9 - Kth Multiple
+- [ ] 173 17.10 - Majority Element
+- [ ] 174 17.11 - Word Distance
+- [ ] 175 17.12 - BillNode
+- [ ] 176 17.13- Re-space
+- [ ] 177 17.14 - Smallest K
+- [ ] 178 17.15 - Longest Word
+- [ ] 179 17.16 - The Masseuse
+- [ ] 180 17.17 - Multi Search
+- [ ] 181 17.18 - Shortest Supersequence
+- [ ] 182 17.19 - Miss Two
+- [ ] 183 17.20 - Continuous Median
+- [ ] 184 17.21 - Volume of Histogram
+- [ ] 185 17.22 - Word transformer
+- [ ] 186 17.23 - Max black Square
+- [ ] 187 17.24 - Max Submatrix
+- [ ] 188 17.25 - Word Rectangle
+- [ ] 189 17.26 - Sparse Similiarity

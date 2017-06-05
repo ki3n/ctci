@@ -140,27 +140,27 @@
 
 #### Chapter 11 Testing
 - [ ] What Interviewer is looking for, testing a real world object, testing a piece of software, testing a function, troubleshooting question
-- [ ] 099 11.1 - 
-- [ ] 100 11.2 - 
-- [ ] 101 11.3 - 
-- [ ] 102 11.4 - 
-- [ ] 103 11.5 - 
-- [ ] 104 11.6 - 
+- [ ] 099 11.1 - Mistake
+- [ ] 100 11.2 - Random Crashes
+- [ ] 101 11.3 - Chess Test
+- [ ] 102 11.4 - No Test Tools
+- [ ] 103 11.5 - Test a Pen
+- [ ] 104 11.6 - Test an ATM
 
 
 #### Chapter 12 C and C++
 - [ ] Classes and Inheritance, Constructors and Destructors, Virtual Functions, Default Values, Operator Overloading, Pointers and References, Templates
-- [ ] 105 12.1 - 
-- [ ] 106 12.2 - 
-- [ ] 107 12.3 - 
-- [ ] 108 12.4 - 
-- [ ] 109 12.5 - 
-- [ ] 110 12.6 - 
-- [ ] 111 12.7 - 
-- [ ] 112 12.8 - 
-- [ ] 113 12.9 - 
-- [ ] 114 12.10 - 
-- [ ] 115 12.11 - 
+- [ ] 105 12.1 - Last K Lines
+- [ ] 106 12.2 - Reverse String
+- [ ] 107 12.3 - Hastable Vs STL Map
+- [ ] 108 12.4 - Virtual Functions
+- [ ] 109 12.5 - Shallow vs Deep Copy
+- [ ] 110 12.6 - Volatile
+- [ ] 111 12.7 - Virtual Base Class
+- [ ] 112 12.8 - Copy Node
+- [ ] 113 12.9 - Smart Pointer
+- [ ] 114 12.10 - Malloc
+- [ ] 115 12.11 - 2D Alloc
 
 
 #### Chapter 13 Java
@@ -177,84 +177,84 @@
 
 #### Chapter 14 Databases
 - [ ] SQL Syntax and Variations, Denormalized vs Normalized Databases, SQL Statements, Small Database Design, Large Database Design
-- [ ] 124 14.1 - 
-- [ ] 125 14.2 - 
-- [ ] 126 14.3 - 
-- [ ] 127 14.4 - 
-- [ ] 128 14.5 - 
-- [ ] 129 14.6 - 
-- [ ] 130 14.7 - 
+- [ ] 124 14.1 - Multiple Apartments
+- [ ] 125 14.2 - Open Requests
+- [ ] 126 14.3 - Close All Requests
+- [ ] 127 14.4 - Joins
+- [ ] 128 14.5 - Denormalization
+- [ ] 129 14.6 - Entity - Relationship Diagram
+- [ ] 130 14.7 - Design Grade Database
 
 
 #### Chapter 15 Threads and Locks
 - [ ] Threads in Java, Synchronization and Locks, Deadlocks and Deadlock Prevention, 
-- [ ] 131 14.1 - 
-- [ ] 132 14.2 - 
-- [ ] 133 14.3 - 
-- [ ] 134 14.4 - 
-- [ ] 135 14.5 - 
-- [ ] 136 14.6 - 
-- [ ] 137 14.7 - 
+- [ ] 131 14.1 - Thread vs Process
+- [ ] 132 14.2 - Context Switch
+- [ ] 133 14.3 - Dining Philosophers
+- [ ] 134 14.4 - Deadlock-free Class
+- [ ] 135 14.5 - Call in Order
+- [ ] 136 14.6 - Synchronized Methods
+- [ ] 137 14.7 - FizzBuzz
 
 
 #### Chapter 16 Moderate
 - [ ] Notes
-- [ ] 138 16.1 - 
-- [ ] 139 16.2 - 
-- [ ] 140 16.3 - 
-- [ ] 141 16.4 - 
-- [ ] 142 16.5 - 
-- [ ] 143 16.6 - 
-- [ ] 144 16.7 - 
-- [ ] 145 16.8 - 
-- [ ] 146 16.9 - 
-- [ ] 147 16.10 - 
-- [ ] 148 16.11 - 
-- [ ] 149 16.12 - 
-- [ ] 150 16.13- 
-- [ ] 151 16.14 - 
-- [ ] 152 16.15 - 
-- [ ] 153 16.16 - 
-- [ ] 154 16.17 - 
-- [ ] 155 16.18 - 
-- [ ] 156 16.19 - 
-- [ ] 157 16.20 - 
-- [ ] 158 16.21 - 
-- [ ] 159 16.22 - 
-- [ ] 160 16.23 - 
-- [ ] 161 16.24 - 
-- [ ] 162 16.25 - 
-- [ ] 163 16.26 - 
+- [ ] 138 16.1 - Number Swapper
+- [ ] 139 16.2 - Word Frequencies
+- [ ] 140 16.3 - Intersection
+- [ ] 141 16.4 - Tic Tac Win
+- [ ] 142 16.5 - Factorial Zeros
+- [ ] 143 16.6 - Smallest Differnces
+- [ ] 144 16.7 - Number Max
+- [ ] 145 16.8 - English Int
+- [ ] 146 16.9 - Operations
+- [ ] 147 16.10 - Living People
+- [ ] 148 16.11 - Diving Board
+- [ ] 149 16.12 - XML Encoding
+- [ ] 150 16.13- Bisect Squares
+- [ ] 151 16.14 - Best Line
+- [ ] 152 16.15 - Master Mind
+- [ ] 153 16.16 - Sub Sort
+- [ ] 154 16.17 - Contiguous Sequence
+- [ ] 155 16.18 - Pattern Matching
+- [ ] 156 16.19 - Pond Sizes
+- [ ] 157 16.20 - T9
+- [ ] 158 16.21 - Sum Swap
+- [ ] 159 16.22 - Langton's Ant
+- [ ] 160 16.23 - Rand7 from Rand5
+- [ ] 161 16.24 - Pairs with Sum
+- [ ] 162 16.25 - LRU Cache
+- [ ] 163 16.26 - Calculator
 
 
 #### Chapter 17 Hard
 - [ ] Notes
-- [ ] 164 17.1 - 
-- [ ] 165 17.2 - 
-- [ ] 166 17.3 - 
-- [ ] 167 17.4 - 
-- [ ] 168 17.5 - 
-- [ ] 169 17.6 - 
-- [ ] 170 17.7 - 
-- [ ] 171 17.8 - 
-- [ ] 172 17.9 - 
-- [ ] 173 17.10 - 
-- [ ] 174 17.11 - 
-- [ ] 175 17.12 - 
-- [ ] 176 17.13- 
-- [ ] 177 17.14 - 
-- [ ] 178 17.15 - 
-- [ ] 179 17.16 - 
-- [ ] 180 17.17 - 
-- [ ] 181 17.18 - 
-- [ ] 182 17.19 - 
-- [ ] 183 17.20 - 
-- [ ] 184 17.21 - 
-- [ ] 185 17.22 - 
-- [ ] 186 17.23 - 
-- [ ] 187 17.24 - 
-- [ ] 188 17.25 - 
-- [ ] 189 17.26 - 
+- [ ] 164 17.1 - Add without Plus
+- [ ] 165 17.2 - Shuffle
+- [ ] 166 17.3 - Random Set
+- [ ] 167 17.4 - Missing Number
+- [ ] 168 17.5 - Letters and Numbers
+- [ ] 169 17.6 - Count of 2s
+- [ ] 170 17.7 - Baby Names
+- [ ] 171 17.8 - Circus Tower
+- [ ] 172 17.9 - Kth Multiple
+- [ ] 173 17.10 - Majority Element
+- [ ] 174 17.11 - Word Distance
+- [ ] 175 17.12 - BillNode
+- [ ] 176 17.13- Re-space
+- [ ] 177 17.14 - Smallest K
+- [ ] 178 17.15 - Longest Word
+- [ ] 179 17.16 - The Masseuse
+- [ ] 180 17.17 - Multi Search
+- [ ] 181 17.18 - Shortest Supersequence
+- [ ] 182 17.19 - Miss Two
+- [ ] 183 17.20 - Continuous Median
+- [ ] 184 17.21 - Volume of Histogram
+- [ ] 185 17.22 - Word transformer
+- [ ] 186 17.23 - Max black Square
+- [ ] 187 17.24 - Max Submatrix
+- [ ] 188 17.25 - Word Rectangle
+- [ ] 189 17.26 - Sparse Similiarity
 
 
 

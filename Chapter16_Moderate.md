@@ -1,1 +1,28 @@
-# Chapter 
+#### Chapter 16 Moderate
+- [ ] Notes
+- [ ] 138 16.1 - Number Swapper
+- [ ] 139 16.2 - Word Frequencies
+- [ ] 140 16.3 - Intersection
+- [ ] 141 16.4 - Tic Tac Win
+- [ ] 142 16.5 - Factorial Zeros
+- [ ] 143 16.6 - Smallest Differnces
+- [ ] 144 16.7 - Number Max
+- [ ] 145 16.8 - English Int
+- [ ] 146 16.9 - Operations
+- [ ] 147 16.10 - Living People
+- [ ] 148 16.11 - Diving Board
+- [ ] 149 16.12 - XML Encoding
+- [ ] 150 16.13- Bisect Squares
+- [ ] 151 16.14 - Best Line
+- [ ] 152 16.15 - Master Mind
+- [ ] 153 16.16 - Sub Sort
+- [ ] 154 16.17 - Contiguous Sequence
+- [ ] 155 16.18 - Pattern Matching
+- [ ] 156 16.19 - Pond Sizes
+- [ ] 157 16.20 - T9
+- [ ] 158 16.21 - Sum Swap
+- [ ] 159 16.22 - Langton's Ant
+- [ ] 160 16.23 - Rand7 from Rand5
+- [ ] 161 16.24 - Pairs with Sum
+- [ ] 162 16.25 - LRU Cache
+- [ ] 163 16.26 - Calculator

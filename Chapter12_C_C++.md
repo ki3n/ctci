@@ -1,1 +1,13 @@
-# Chapter 
+#### Chapter 12 C and C++
+- [ ] Classes and Inheritance, Constructors and Destructors, Virtual Functions, Default Values, Operator Overloading, Pointers and References, Templates
+- [ ] 105 12.1 - Last K Lines
+- [ ] 106 12.2 - Reverse String
+- [ ] 107 12.3 - Hastable Vs STL Map
+- [ ] 108 12.4 - Virtual Functions
+- [ ] 109 12.5 - Shallow vs Deep Copy
+- [ ] 110 12.6 - Volatile
+- [ ] 111 12.7 - Virtual Base Class
+- [ ] 112 12.8 - Copy Node
+- [ ] 113 12.9 - Smart Pointer
+- [ ] 114 12.10 - Malloc
+- [ ] 115 12.11 - 2D Alloc

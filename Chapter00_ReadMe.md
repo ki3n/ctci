@@ -241,7 +241,7 @@
 - [ ] 173 17.10 - Majority Element
 - [ ] 174 17.11 - Word Distance
 - [ ] 175 17.12 - BillNode
-- [ ] 176 17.13- Re-space
+- [ ] 176 17.13 - Re-space
 - [ ] 177 17.14 - Smallest K
 - [ ] 178 17.15 - Longest Word
 - [ ] 179 17.16 - The Masseuse

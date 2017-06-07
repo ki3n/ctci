@@ -9,3 +9,5 @@
 - [ ] 007 1.7 - Rotate Matrix
 - [ ] 008 1.8 - Zero Matrix
 - [ ] 009 1.9 - String Rotation 
+
+### Hash Tables

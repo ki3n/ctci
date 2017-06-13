@@ -1,4 +1,4 @@
-# JavaScript Solutions
+# Python Solutions
 
 ## List of Coding Questions and completed solutions:
 
